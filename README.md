@@ -1,5 +1,3 @@
-# Black-Friday-Sale_Analysis
-Data-driven analysis of $5.1B Black Friday sales. Python-based customer segmentation, product bundling, inventory optimization &amp; predictive modeling. ROI: 484%
 # 🛍️ Black Friday Sales Analysis & Strategy
 
 > Comprehensive data analysis of Walmart Black Friday transactions, identifying $392M revenue opportunities through customer segmentation, product bundling, and strategic pricing optimization.
