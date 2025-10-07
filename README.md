@@ -59,21 +59,21 @@ This project analyzes **550,068 transactions** worth **$5.1 billion** to uncover
 - Retention patterns by city tenure
 - Engagement scoring
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used  
 
-Python 3.8+ - Core programming language
-Pandas - Data manipulation and analysis
-NumPy - Numerical computations
-Matplotlib/Seaborn - Data visualization
-Scipy - Statistical analysis and modeling
-Itertools - Market basket combinations
-Jupyter - Interactive development
+- Python 3.8+ - Core programming language
+- Pandas - Data manipulation and analysis
+- NumPy - Numerical computations
+-Matplotlib/Seaborn - Data visualization
+-Scipy - Statistical analysis and modeling
+-Itertools - Market basket combinations
+-Jupyter - Interactive development
 
 
-📊 Dataset Information
-Source: Walmart Black Friday Sales Data
-Size: 550,068 transactions
-Features: 10 columns
+## 📊 Dataset Information
+-Source: Walmart Black Friday Sales Data
+-Size: 550,068 transactions
+-Features: 10 columns
 
 User_ID, Product_ID, Gender, Age, Occupation
 City_Category, Stay_In_Current_City_Years
@@ -81,36 +81,36 @@ Marital_Status, Product_Category, Purchase
 
 Time Period: Black Friday shopping event
 Total Revenue: $5,095,812,742
-🎓 Methodologies Applied
-Statistical Methods
 
-Confidence Intervals (90%, 95%, 99%)
-Central Limit Theorem applications
-Hypothesis testing
-Distribution analysis (normal fitting)
+## 🎓 Methodologies Applied
+- Statistical Methods
+- Confidence Intervals (90%, 95%, 99%)
+- Central Limit Theorem applications
+- Hypothesis testing
+- Distribution analysis (normal fitting)
 
-Advanced Analytics
+## Advanced Analytics
 
-Market Basket Analysis: Apriori algorithm with lift scores
-CLV Modeling: Retention-based lifetime value calculation
-Price Elasticity: Cross-city variation analysis
-Cohort Analysis: Tenure-based segmentation
+- Market Basket Analysis: Apriori algorithm with lift scores
+- CLV Modeling: Retention-based lifetime value calculation
+- Price Elasticity: Cross-city variation analysis
+- Cohort Analysis: Tenure-based segmentation
 
-Business Frameworks
+## Business Frameworks
 
 Store Allocation Scoring: Weighted composite metrics
 Inventory Prioritization: Velocity + revenue share
 ROI Segmentation: Attractiveness scoring algorithm
 
-💼 Business Impact
-Immediate Opportunities (Q1 2025)
+## 💼 Business Impact
+- Immediate Opportunities (Q1 2025)
 
 Launch new resident acquisition program
 Implement Category 5+1 bundling
 Reallocate marketing budget to top segments
 Expected Impact: $15M
 
-Strategic Initiatives (Year 1)
+- Strategic Initiatives (Year 1)
 
 City B store expansion (3 locations)
 Inventory optimization rollout
@@ -118,9 +118,10 @@ Price increases on 8 inelastic categories
 Full bundling program
 Expected Impact: $392M
 
-Financial Projections
+- Financial Projections
 YearRevenue IncreaseCumulative Growth2025+$392M+7.7%2026+$615M+12.0%2027+$890M+17.5%
-📝 Key Recommendations
+
+## 📝 Key Recommendations
 1. Store Operations
 
 City B: Open 3 large-format stores ($45M investment)
@@ -145,14 +146,14 @@ Increase prices 5-8% on 8 inelastic categories
 Expected additional revenue: $12M annually
 Monitor competitor response
 
-📚 Documentation
+##  📚 Documentation
 Detailed documentation available in:
 
 results/executive_summary.md - Business recommendations
 notebooks/ - Annotated analysis notebooks
 Code comments throughout Python scripts
 
-🤝 Contributing
+##  🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 📧 Contact
 Urooj Abdel Halim
@@ -161,7 +162,7 @@ LinkedIn: https://www.linkedin.com/in/urooj-baksh/
 Email: uroojbaksh@outlook.com
 Portfolio: https://uroojbaksh-ba629.web.app/
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 🙏 Acknowledgments
 
