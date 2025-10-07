@@ -437,4 +437,4 @@ See: `visualizations/` folder (11 charts)
 
 ---
 
-*For questions or additional analysis, contact the Data Analytics Team.*
+*For questions or additional analysis, contact me via email.*
